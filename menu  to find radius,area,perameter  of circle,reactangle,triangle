@@ -27,7 +27,7 @@ int triangle(int a,int b,int c)
     int a;
     printf("\n1.circle");
     printf("\n2.rectangle");
-    printf("\n3,triangle");
+    printf("\n3.triangle");
     printf("\nenter you choice :");
     scanf("%d",&a);
     switch(a)
